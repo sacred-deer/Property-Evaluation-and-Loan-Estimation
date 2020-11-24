@@ -1,0 +1,711 @@
+Location,Bedrooms,Bathrooms,Size,Price
+Arroyo Grande,3,2,1437,425000
+Arroyo Grande,3,2,1570,599000
+Arroyo Grande,4,4,3740,995000
+Arroyo Grande,2,1,624,54500
+Arroyo Grande,3,2,1800,149000
+Arroyo Grande,3,3,2480,1249000
+Arroyo Grande,3,2,1750,525000
+Arroyo Grande,4,2,1728,599000
+Arroyo Grande,3,2,1543,509000
+Arroyo Grande,4,5,5060,5499000
+Arroyo Grande,4,3,2720,975000
+Arroyo Grande,3,2,1975,589000
+Atascadero,3,3,2044,995000
+Atascadero,4,3,2700,830000
+Atascadero,3,2,1536,435000
+Atascadero,3,2,1310,299000
+Atascadero,3,3,1961,575000
+Atascadero,2,2,120,67500
+Atascadero,3,3,2100,449000
+Atascadero,5,3,3000,349000
+Atascadero,6,3,2628,425000
+Atascadero,3,2,1737,355000
+Cambria,2,2,703,389000
+Cambria,2,2,1698,480000
+Cambria,3,3,1953,729000
+Cambria,3,3,2130,1290000
+Cambria,4,4,3576,2000000
+Cambria,2,3,2219,598000
+Cambria,2,2,919,650000
+Cambria,2,3,1840,825000
+Cambria,5,4,3684,2995000
+Cambria,4,3,2717,995000
+Cambria,3,3,1860,865000
+Cambria,3,3,2392,1100000
+Los Osos,3,3,2502,1350000
+Los Osos,2,2,1536,189000
+Los Osos,3,3,2193,648000
+Los Osos,3,2,1440,149000
+Los Osos,3,2,2187,625000
+Los Osos,2,2,1150,225000
+Morro Bay,2,2,1410,535000
+Morro Bay,4,2,2004,469000
+Morro Bay,3,2,1427,652000
+Morro Bay,3,2,2306,982800
+Nipomo,4,2,1248,122500
+Nipomo,2,2,1152,175000
+Nipomo,4,4,3395,1065000
+Paso Robles,3,2,1807,425000
+Paso Robles,3,2,2237,549000
+Paso Robles,3,2,1467,349000
+Paso Robles,3,3,1868,318000
+Paso Robles,4,3,3166,579900
+Paso Robles,3,2,2380,524900
+Paso Robles,3,1,940,199000
+Paso Robles,3,2,1344,270000
+Paso Robles,1,2,300,131900
+Paso Robles,3,2,1325,339900
+Paso Robles,2,2,1351,214900
+Paso Robles,2,3,1772,399000
+Paso Robles,4,2,1947,399000
+Paso Robles,3,3,1605,319900
+Paso Robles,3,2,1877,495000
+Pismo Beach,2,1,817,540000
+Pismo Beach,3,2,2080,639900
+Pismo Beach,3,2,1946,545000
+Pismo Beach,3,3,2028,795000
+Pismo Beach,3,3,2817,920000
+Pismo Beach,3,2,1346,459900
+Pismo Beach,2,2,1440,339000
+Pismo Beach,3,3,2725,849500
+San Luis Obispo,5,6,4174,2369000
+San Luis Obispo,3,3,3201,1490000
+San Luis Obispo,3,2,1382,475000
+San Miguel,3,3,2238,595000
+Santa Maria-Orcutt,4,2,1860,399900
+Santa Maria-Orcutt,2,2,1200,129000
+Santa Maria-Orcutt,5,4,3000,699900
+Santa Maria-Orcutt,4,2,1860,365000
+Santa Maria-Orcutt,2,2,1056,36000
+Santa Maria-Orcutt,3,2,2481,850000
+Santa Maria-Orcutt,3,2,1454,312900
+Santa Maria-Orcutt,2,2,1344,26500
+Santa Maria-Orcutt,4,3,2097,250000
+Santa Maria-Orcutt,2,1,1145,355000
+Santa Maria-Orcutt,3,3,1850,299000
+Santa Maria-Orcutt,3,2,2000,349900
+Santa Maria-Orcutt,3,2,1000,249999
+Templeton,3,2,1936,509000
+Arroyo Grande,3,3,2371,795000
+Arroyo Grande,2,2,1257,299000
+Arroyo Grande,3,2,1750,595000
+Arroyo Grande,3,2,1486,495000
+Arroyo Grande,3,2,2145,749000
+Arroyo Grande,5,3,2947,555900
+Arroyo Grande,2,1,827,199000
+Arroyo Grande,5,7,6800,1499000
+Arroyo Grande,4,5,5411,1900000
+Arroyo Grande,3,2,1535,385000
+Arroyo Grande,3,3,1772,399000
+Arroyo Grande,2,2,880,279000
+Arroyo Grande,4,2,1961,525000
+Arroyo Grande,3,1,1005,289000
+Arroyo Grande,3,3,2600,520000
+Arroyo Grande,3,2,1171,325000
+Arroyo Grande,3,2,1368,374900
+Arroyo Grande,3,1,1056,365000
+Arroyo Grande,2,1,972,265000
+Arroyo Grande,2,1,728,249250
+Arroyo Grande,5,4,3588,850000
+Arroyo Grande,3,4,3375,849900
+Arroyo Grande,2,2,1587,419000
+Arroyo Grande,4,3,2035,514900
+Arroyo Grande,3,2,1916,450000
+Arroyo Grande,3,3,1568,400000
+Arroyo Grande,1,1,748,250000
+Arroyo Grande,5,2,1575,239800
+Atascadero,3,2,1323,319000
+Atascadero,3,2,1415,389000
+Atascadero,1,1,712,199000
+Atascadero,3,2,2774,599000
+Atascadero,4,4,3387,750000
+Atascadero,4,3,3305,810000
+Atascadero,4,5,4229,890000
+Atascadero,4,3,3676,895000
+Atascadero,4,3,2513,429000
+Atascadero,3,2,1270,299000
+Atascadero,2,2,1463,450000
+Atascadero,4,3,3120,599000
+Atascadero,3,2,1022,239000
+Atascadero,3,2,1665,399500
+Atascadero,4,3,3827,829900
+Atascadero,4,4,3387,820000
+Atascadero,4,3,1900,454500
+Atascadero,4,4,3744,850000
+Atascadero,2,1,792,199000
+Atascadero,4,3,3305,865000
+Atascadero,4,4,3962,900000
+Atascadero,2,3,1260,199000
+Atascadero,2,2,1426,324900
+Atascadero,4,4,2135,409900
+Atascadero,4,4,2135,409900
+Atascadero,3,3,2160,640000
+Atascadero,2,1,1160,395000
+Atascadero,3,3,2344,560000
+Atascadero,4,3,2450,475000
+Atascadero,2,2,894,106900
+Atascadero,1,1,594,187500
+Atascadero,3,1,1030,264450
+Atascadero,3,3,1261,250000
+Atascadero,2,1,1055,138900
+Atascadero,4,2,1836,299500
+Atascadero,3,3,1733,290000
+Atascadero,3,3,2600,669000
+Atascadero,3,2,1514,369000
+Atascadero,3,3,1685,309000
+Atascadero,3,2,1198,229900
+Atascadero,2,2,1041,145000
+Atascadero,3,3,1261,235000
+Atascadero,6,3,2628,399000
+Atascadero,2,1,973,199000
+Atascadero,3,3,2135,449900
+Atascadero,3,3,1957,489900
+Atascadero,4,3,2400,335000
+Atascadero,2,1,756,95000
+Atascadero,3,2,1007,199000
+Atascadero,5,4,5200,949000
+Atascadero,2,1,756,90000
+Atascadero,3,3,2000,349000
+Atascadero,3,2,2000,449970
+Atascadero,10,11,4905,699000
+Atascadero,3,2,1232,264900
+Atascadero,5,3,3000,349000
+Atascadero,3,2,1041,229900
+Atascadero,3,2,1617,265000
+Buellton,4,4,3000,645000
+Buellton,2,2,1085,289000
+Buellton,3,3,1475,375000
+Buellton,3,2,1716,409900
+Buellton,3,2,1363,377000
+Buellton,3,3,1281,269000
+Buellton,4,3,1500,498900
+Buellton,4,2,1571,384900
+Buellton,4,3,1868,395000
+Buellton,3,3,1475,375000
+Buellton,4,3,1868,395000
+Buellton,4,3,1868,395000
+Cambria,2,2,893,325000
+Cambria,3,2,1680,520000
+Cambria,3,3,2120,449000
+Cambria,4,4,1872,332000
+Cambria,1,1,551,375000
+Cambria,5,3,1818,699900
+Cambria,3,2,1380,289900
+Cambria,3,2,1840,359900
+Cambria,2,2,924,549000
+Grover Beach,3,2,2100,500000
+Grover Beach,2,1,768,325000
+Grover Beach,2,2,1020,240000
+Grover Beach,3,2,1470,350000
+Grover Beach,4,3,2449,469000
+Grover Beach,3,2,1635,349000
+Grover Beach,3,3,2095,575000
+Grover Beach,3,2,1827,469000
+Grover Beach,2,2,1194,275000
+Grover Beach,3,2,1462,479000
+Grover Beach,2,2,1088,249500
+Grover Beach,3,2,1200,310000
+Grover Beach,1,1,566,265000
+Grover Beach,3,2,1346,349000
+Grover Beach,3,2,1278,375000
+Grover Beach,3,2,1902,419000
+Grover Beach,3,1,1522,349900
+Grover Beach,3,2,1240,329900
+Grover Beach,3,2,1189,255000
+Grover Beach,4,2,1631,379000
+Lompoc,4,2,1527,199000
+Lompoc,3,2,1700,275000
+Lompoc,3,1,912,186900
+Lompoc,4,2,1332,180000
+Lompoc,3,3,1736,282000
+Lompoc,3,2,1144,165000
+Lompoc,4,3,3000,360000
+Lompoc,3,2,1120,165000
+Lompoc,3,3,2041,429000
+Lompoc,3,2,1413,260000
+Lompoc,3,2,944,170000
+Lompoc,3,2,1150,169900
+Lompoc,3,2,1594,307000
+Lompoc,4,2,1973,295000
+Lompoc,3,2,1686,350900
+Lompoc,4,2,1144,158900
+Lompoc,3,2,1728,405000
+Lompoc,4,2,1237,191330
+Lompoc,4,2,1338,199900
+Lompoc,3,2,1503,227900
+Lompoc,3,3,1306,125000
+Lompoc,4,3,3035,449900
+Lompoc,4,2,1217,193450
+Lompoc,3,2,1082,163900
+Lompoc,3,2,1237,163900
+Lompoc,3,2,1225,198900
+Los Osos,3,3,2990,779000
+Los Osos,3,2,1200,275000
+Los Osos,3,3,1519,375000
+Los Osos,1,1,538,99000
+Los Osos,3,2,1509,350000
+Los Osos,3,2,1120,285000
+Los Osos,2,2,896,150000
+Los Osos,2,2,896,150000
+Los Osos,2,2,896,150000
+Los Osos,2,2,896,150000
+Los Osos,2,2,896,150000
+Los Osos,2,2,1388,205000
+Los Osos,3,2,1844,729000
+Los Osos,3,3,3249,650000
+Los Osos,2,1,720,249900
+Los Osos,2,2,1042,214000
+Los Osos,3,2,2120,499000
+Los Osos,2,1,780,310000
+Los Osos,3,2,1320,275000
+Los Osos,6,7,5103,1249000
+Los Osos,3,2,1120,259900
+Morro Bay,4,4,3540,909000
+Morro Bay,4,3,3360,999000
+Morro Bay,4,3,4168,1100000
+Morro Bay,3,3,1350,415000
+Morro Bay,3,3,2100,789000
+Morro Bay,3,3,2430,899000
+Morro Bay,3,3,2100,1045000
+Morro Bay,2,2,1550,774000
+Morro Bay,3,2,1008,359000
+Morro Bay,4,2,1736,395000
+Morro Bay,0,1,910,311900
+Morro Bay,3,3,1510,529000
+Morro Bay,3,2,1236,435000
+Nipomo,3,1,1110,340000
+Nipomo,3,3,2365,525000
+Nipomo,4,3,2341,498000
+Nipomo,4,2,2168,430000
+Nipomo,4,2,1929,320000
+Nipomo,7,5,2688,325000
+Nipomo,2,2,1033,179000
+Nipomo,4,2,1660,159000
+Nipomo,3,2,1367,289000
+Nipomo,2,2,2000,515000
+Nipomo,3,5,4463,1700000
+Nipomo,3,3,1894,490000
+Nipomo,3,2,1756,299000
+Nipomo,4,2,1925,339900
+Nipomo,4,3,2600,550000
+Nipomo,2,2,1248,139500
+Nipomo,3,2,1106,239000
+Nipomo,2,2,1040,189500
+Nipomo,5,3,3036,359900
+Nipomo,3,2,1700,699000
+Nipomo,3,2,1181,269000
+Nipomo,3,3,1650,242500
+Nipomo,4,2,1814,649000
+Nipomo,4,2,1718,349000
+Nipomo,2,2,969,149900
+Nipomo,3,4,3698,879000
+Nipomo,4,4,5190,1399900
+Nipomo,4,2,2125,296800
+Nipomo,2,2,1134,279900
+Nipomo,3,2,1106,222600
+Nipomo,3,3,2703,650000
+Nipomo,3,2,1112,220000
+Nipomo,3,1,1022,189000
+Nipomo,4,2,1336,259000
+Paso Robles,4,3,2818,399000
+Paso Robles,4,3,3032,545000
+Paso Robles,4,3,1794,314000
+Paso Robles,3,2,1719,299000
+Paso Robles,4,3,3032,539900
+Paso Robles,3,2,1700,329000
+Paso Robles,4,3,2192,409000
+Paso Robles,3,2,1456,225000
+Paso Robles,3,3,1951,359900
+Paso Robles,3,2,1560,89000
+Paso Robles,3,2,1340,235000
+Paso Robles,3,1,888,183000
+Paso Robles,3,2,1316,294900
+Paso Robles,3,2,1220,399000
+Paso Robles,4,2,2135,319900
+Paso Robles,4,3,3113,432000
+Paso Robles,4,3,2277,379000
+Paso Robles,3,2,1440,164900
+Paso Robles,4,2,2064,370000
+Paso Robles,3,3,2136,365000
+Paso Robles,2,1,1068,299000
+Paso Robles,3,2,1420,329000
+Paso Robles,5,3,2764,599900
+Paso Robles,3,2,1662,249000
+Paso Robles,3,3,1352,269000
+Paso Robles,3,2,1209,299900
+Paso Robles,3,2,1381,279000
+Paso Robles,2,1,1250,399000
+Paso Robles,3,2,1640,355000
+Paso Robles,4,3,2371,369000
+Paso Robles,2,2,1292,250000
+Paso Robles,3,2,1640,259000
+Paso Robles,4,2,1653,315000
+Paso Robles,3,3,1889,330000
+Paso Robles,3,2,1176,249000
+Paso Robles,3,2,1998,389000
+Paso Robles,3,3,1687,260000
+Paso Robles,3,2,1663,320000
+Paso Robles,3,2,1550,225000
+Paso Robles,3,3,2150,369000
+Paso Robles,3,2,1488,309000
+Paso Robles,4,2,2161,369900
+Paso Robles,2,1,1000,199000
+Paso Robles,5,3,3150,579000
+Paso Robles,3,2,1426,290000
+Paso Robles,3,2,1395,350000
+Paso Robles,3,2,1300,315000
+Paso Robles,3,2,1244,279900
+Paso Robles,4,2,2139,399000
+Paso Robles,3,2,1550,221830
+Paso Robles,3,2,1139,269900
+Paso Robles,3,2,1465,169990
+Paso Robles,3,3,1296,335900
+Paso Robles,3,2,1774,359000
+Paso Robles,4,2,1240,239000
+Paso Robles,5,6,3750,695000
+Paso Robles,2,2,1440,150000
+Paso Robles,3,2,1488,163999
+Paso Robles,4,3,2006,319200
+Paso Robles,3,2,2446,402500
+Paso Robles,3,2,2114,425000
+Paso Robles,3,2,1080,239900
+Paso Robles,3,3,2271,580000
+Paso Robles,3,2,1269,287000
+Paso Robles,5,3,2700,429000
+Paso Robles,3,3,1197,264900
+Paso Robles,4,2,1870,429000
+Paso Robles,4,2,2064,409000
+Paso Robles,4,2,2064,409000
+Paso Robles,4,3,1888,399000
+Paso Robles,4,2,1862,389000
+Paso Robles,3,2,1960,409000
+Paso Robles,4,3,2502,529000
+Paso Robles,3,3,2203,409000
+Paso Robles,4,2,2236,390000
+Paso Robles,3,2,1657,304900
+Paso Robles,3,2,1396,278000
+Paso Robles,3,2,1368,149000
+Paso Robles,3,2,1275,249000
+Paso Robles,3,2,2082,599000
+Paso Robles,3,2,1080,214900
+Paso Robles,3,2,1425,250000
+Paso Robles,3,3,2508,439900
+Paso Robles,2,1,832,199000
+Paso Robles,2,2,1674,249900
+Pismo Beach,3,4,1920,950000
+Pismo Beach,3,3,2602,1100000
+Pismo Beach,3,2,1293,499000
+Pismo Beach,0,1,398,275000
+Pismo Beach,3,3,2266,899000
+Pismo Beach,2,3,1749,604995
+Pismo Beach,3,3,1996,599000
+Pismo Beach,2,1,634,519500
+Pismo Beach,4,4,3609,1799000
+Pismo Beach,3,3,2200,875000
+Pismo Beach,2,2,1200,599000
+Pismo Beach,3,2,1858,549000
+San Luis Obispo,3,3,1472,425000
+San Luis Obispo,4,2,1543,399000
+San Luis Obispo,3,2,2117,595000
+San Luis Obispo,2,3,1389,385000
+San Luis Obispo,2,3,1650,449000
+San Luis Obispo,3,2,1268,585000
+San Luis Obispo,2,2,966,254900
+San Luis Obispo,3,3,3474,890000
+San Luis Obispo,2,2,896,299000
+San Luis Obispo,3,3,1365,374800
+San Luis Obispo,2,2,1190,239800
+San Luis Obispo,3,2,1668,531905
+San Luis Obispo,3,3,1756,440000
+San Luis Obispo,3,2,1104,372000
+San Miguel,3,3,2950,599000
+San Miguel,3,2,1458,229900
+San Miguel,3,2,1458,229000
+San Miguel,3,2,1498,345000
+San Miguel,3,1,965,164900
+San Miguel,3,2,1062,185000
+San Miguel,4,2,1601,269900
+San Miguel,3,2,1350,180000
+San Miguel,3,2,1458,229000
+San Miguel,3,2,1184,199500
+San Miguel,4,4,3531,720000
+San Miguel,2,2,1222,84900
+San Miguel,4,2,2400,325000
+San Miguel,3,2,1356,209900
+Santa Maria-Orcutt,3,1,1249,109900
+Santa Maria-Orcutt,4,2,1603,192900
+Santa Maria-Orcutt,3,2,1450,215000
+Santa Maria-Orcutt,3,2,1750,350000
+Santa Maria-Orcutt,3,2,1400,249000
+Santa Maria-Orcutt,3,2,1400,235900
+Santa Maria-Orcutt,3,2,1600,348000
+Santa Maria-Orcutt,2,1,1000,110000
+Santa Maria-Orcutt,3,2,1139,200000
+Santa Maria-Orcutt,3,1,1080,134900
+Santa Maria-Orcutt,4,3,2000,250000
+Santa Maria-Orcutt,4,2,1348,239950
+Santa Maria-Orcutt,3,2,1280,170000
+Santa Maria-Orcutt,3,2,2400,285000
+Santa Maria-Orcutt,3,3,1700,279000
+Santa Maria-Orcutt,3,2,1600,219000
+Santa Maria-Orcutt,3,2,1050,155000
+Santa Maria-Orcutt,2,2,1100,140000
+Santa Maria-Orcutt,4,3,2351,360000
+Santa Maria-Orcutt,4,2,1206,250000
+Santa Maria-Orcutt,3,3,2628,559000
+Santa Maria-Orcutt,4,3,2580,279000
+Santa Maria-Orcutt,4,2,1963,375000
+Santa Maria-Orcutt,3,3,1900,330000
+Santa Maria-Orcutt,3,3,1450,199000
+Santa Maria-Orcutt,2,2,1000,165000
+Santa Maria-Orcutt,3,2,1218,255000
+Santa Maria-Orcutt,3,4,2250,499000
+Santa Maria-Orcutt,3,3,1800,239000
+Santa Maria-Orcutt,3,2,1218,195000
+Santa Maria-Orcutt,4,3,1877,275000
+Santa Maria-Orcutt,3,2,1080,140000
+Santa Maria-Orcutt,3,2,1296,167900
+Santa Maria-Orcutt,1,1,900,119000
+Santa Maria-Orcutt,4,2,1482,245000
+Santa Maria-Orcutt,3,2,1726,259900
+Santa Maria-Orcutt,4,2,1367,329700
+Santa Maria-Orcutt,3,2,1040,149000
+Santa Maria-Orcutt,2,1,811,195000
+Santa Maria-Orcutt,3,1,1042,129900
+Santa Maria-Orcutt,3,2,1440,255900
+Santa Maria-Orcutt,5,2,1064,148900
+Santa Maria-Orcutt,3,2,1472,189900
+Santa Maria-Orcutt,3,3,1582,232600
+Santa Maria-Orcutt,4,3,1940,225000
+Santa Maria-Orcutt,3,2,1200,161900
+Santa Maria-Orcutt,3,3,2013,249999
+Santa Maria-Orcutt,2,1,1267,208000
+Santa Maria-Orcutt,4,3,2800,399000
+Santa Maria-Orcutt,3,2,2000,385000
+Santa Maria-Orcutt,3,3,1780,269000
+Santa Maria-Orcutt,2,2,1500,29000
+Santa Maria-Orcutt,4,3,1857,259000
+Santa Maria-Orcutt,4,2,2000,337000
+Santa Maria-Orcutt,3,2,1280,180000
+Santa Maria-Orcutt,3,2,1424,275000
+Santa Maria-Orcutt,3,2,1218,242500
+Santa Maria-Orcutt,3,3,1300,259900
+Santa Maria-Orcutt,4,3,2014,310000
+Santa Maria-Orcutt,2,2,1541,220000
+Santa Maria-Orcutt,5,4,2400,324000
+Santa Maria-Orcutt,2,2,1014,74900
+Santa Maria-Orcutt,3,3,3400,751900
+Santa Maria-Orcutt,3,2,1386,295000
+Santa Maria-Orcutt,3,2,1376,197000
+Santa Maria-Orcutt,3,1,1050,132000
+Santa Maria-Orcutt,5,3,2500,290000
+Santa Maria-Orcutt,4,3,1963,249000
+Santa Maria-Orcutt,3,3,1541,235000
+Santa Maria-Orcutt,1,1,731,105000
+Santa Maria-Orcutt,3,2,1086,179999
+Santa Maria-Orcutt,3,2,1131,219000
+Santa Maria-Orcutt,2,1,1100,165000
+Santa Maria-Orcutt,3,2,1398,179000
+Santa Maria-Orcutt,4,2,1860,235000
+Santa Maria-Orcutt,3,2,1269,199000
+Santa Maria-Orcutt,3,2,1275,209000
+Santa Maria-Orcutt,4,2,1460,240000
+Santa Maria-Orcutt,4,2,1750,215000
+Santa Maria-Orcutt,4,4,3050,399900
+Santa Maria-Orcutt,2,2,1082,180000
+Santa Maria-Orcutt,2,2,1100,154000
+Santa Maria-Orcutt,3,3,2523,437500
+Santa Maria-Orcutt,3,3,2511,299900
+Santa Maria-Orcutt,3,2,1400,248000
+Santa Maria-Orcutt,3,3,1494,209000
+Santa Maria-Orcutt,3,2,1300,185000
+Santa Maria-Orcutt,3,2,1200,165000
+Santa Maria-Orcutt,3,2,1600,175000
+Santa Maria-Orcutt,2,2,1680,78000
+Santa Maria-Orcutt,3,3,2714,641900
+Santa Maria-Orcutt,2,2,1410,299000
+Santa Maria-Orcutt,3,3,1900,229900
+Santa Maria-Orcutt,2,3,1200,160000
+Santa Maria-Orcutt,3,3,2400,299000
+Santa Maria-Orcutt,4,2,1460,270000
+Santa Maria-Orcutt,3,3,1800,295000
+Santa Maria-Orcutt,3,2,1110,165000
+Santa Maria-Orcutt,3,2,1075,157900
+Santa Maria-Orcutt,4,2,1650,233000
+Santa Maria-Orcutt,2,2,1200,109900
+Santa Maria-Orcutt,2,2,1113,209900
+Santa Maria-Orcutt,3,2,1300,179000
+Santa Maria-Orcutt,3,2,1850,130000
+Santa Maria-Orcutt,3,2,1146,205000
+Santa Maria-Orcutt,2,2,1100,180900
+Santa Maria-Orcutt,2,3,1800,99999
+Santa Maria-Orcutt,5,3,3307,445000
+Santa Maria-Orcutt,4,2,1102,210000
+Santa Maria-Orcutt,3,2,1215,199900
+Santa Maria-Orcutt,3,2,1600,225000
+Santa Maria-Orcutt,3,2,1686,120000
+Santa Maria-Orcutt,4,2,1257,300000
+Santa Maria-Orcutt,3,2,1144,225000
+Santa Maria-Orcutt,4,3,2300,399000
+Santa Maria-Orcutt,3,2,1238,199900
+Santa Maria-Orcutt,2,2,1086,222900
+Santa Maria-Orcutt,4,2,1361,170500
+Santa Maria-Orcutt,3,2,1200,299900
+Santa Maria-Orcutt,2,2,840,65900
+Santa Maria-Orcutt,4,2,1377,210000
+Santa Maria-Orcutt,3,2,1906,309000
+Santa Maria-Orcutt,3,2,2004,315000
+Santa Maria-Orcutt,3,1,1200,191100
+Santa Maria-Orcutt,4,2,1400,199000
+Santa Maria-Orcutt,4,3,2209,359000
+Santa Maria-Orcutt,3,2,1316,150000
+Santa Maria-Orcutt,4,3,1857,229900
+Santa Maria-Orcutt,3,2,1400,229900
+Santa Maria-Orcutt,5,3,6098,245000
+Santa Maria-Orcutt,3,2,1300,165000
+Santa Maria-Orcutt,4,3,2248,309900
+Santa Maria-Orcutt,4,2,1500,169900
+Santa Maria-Orcutt,3,2,2000,380900
+Santa Maria-Orcutt,4,3,1939,315000
+Santa Maria-Orcutt,3,2,1312,119900
+Santa Maria-Orcutt,3,2,1275,211500
+Santa Maria-Orcutt,2,1,854,149000
+Santa Maria-Orcutt,4,3,2100,289000
+Santa Maria-Orcutt,3,2,900,125000
+Santa Maria-Orcutt,3,3,1800,239000
+Santa Maria-Orcutt,3,3,1600,199900
+Santa Maria-Orcutt,4,3,2150,179900
+Santa Maria-Orcutt,3,2,1300,195000
+Santa Maria-Orcutt,2,3,1700,265000
+Santa Maria-Orcutt,3,3,1530,189000
+Santa Maria-Orcutt,2,2,1088,105000
+Santa Maria-Orcutt,4,4,4000,365000
+Santa Maria-Orcutt,4,2,2100,339900
+Santa Maria-Orcutt,3,3,2340,359900
+Santa Maria-Orcutt,3,2,1080,143000
+Santa Maria-Orcutt,3,2,1196,199000
+Santa Maria-Orcutt,4,2,1856,294900
+Santa Maria-Orcutt,4,3,2367,427900
+Santa Maria-Orcutt,2,2,1130,144900
+Santa Maria-Orcutt,3,3,2020,345000
+Santa Maria-Orcutt,3,3,1800,225000
+Santa Maria-Orcutt,3,3,1660,219900
+Santa Maria-Orcutt,4,3,2100,285000
+Santa Maria-Orcutt,3,2,1200,179900
+Santa Maria-Orcutt,4,3,1768,299000
+Santa Maria-Orcutt,3,2,1776,295900
+Santa Maria-Orcutt,4,3,1467,199000
+Santa Maria-Orcutt,3,3,1950,199900
+Santa Maria-Orcutt,3,2,1288,179900
+Santa Maria-Orcutt,3,2,1128,168000
+Santa Maria-Orcutt,3,3,1900,270000
+Santa Maria-Orcutt,3,2,1255,240000
+Santa Maria-Orcutt,4,3,2336,235000
+Santa Maria-Orcutt,3,3,1800,269000
+Santa Maria-Orcutt,6,3,2053,339900
+Santa Maria-Orcutt,4,3,1900,259000
+Santa Maria-Orcutt,3,2,1050,165000
+Santa Maria-Orcutt,3,2,1414,289900
+Santa Maria-Orcutt,3,2,1200,220000
+Santa Maria-Orcutt,2,2,1150,459900
+Santa Maria-Orcutt,5,3,2481,299000
+Santa Maria-Orcutt,4,3,1600,309900
+Santa Maria-Orcutt,3,2,1516,225000
+Santa Maria-Orcutt,3,2,1080,130000
+Santa Maria-Orcutt,2,1,920,169990
+Santa Maria-Orcutt,3,2,1027,145000
+Santa Maria-Orcutt,3,2,1253,189900
+Santa Maria-Orcutt,3,2,1062,249000
+Santa Maria-Orcutt,4,2,1934,185000
+Santa Maria-Orcutt,3,3,1859,245000
+Santa Maria-Orcutt,4,3,2400,289900
+Santa Maria-Orcutt,3,2,1110,175000
+Santa Maria-Orcutt,3,2,1075,139000
+Santa Maria-Orcutt,3,2,1840,399000
+Santa Maria-Orcutt,3,2,1622,350000
+Santa Maria-Orcutt,3,2,1204,165000
+Santa Maria-Orcutt,3,3,1750,210000
+Santa Maria-Orcutt,3,2,1000,110000
+Santa Maria-Orcutt,3,2,1114,159900
+Santa Maria-Orcutt,3,2,1100,174900
+Santa Maria-Orcutt,3,2,1349,150000
+Santa Maria-Orcutt,4,2,1174,256000
+Santa Maria-Orcutt,3,3,1910,280000
+Santa Maria-Orcutt,3,2,1200,140000
+Santa Maria-Orcutt,3,2,1092,164900
+Santa Maria-Orcutt,3,2,1275,199900
+Santa Maria-Orcutt,3,2,1712,204000
+Santa Maria-Orcutt,3,2,1100,220000
+Santa Maria-Orcutt,3,2,1671,229900
+Santa Maria-Orcutt,2,1,775,114900
+Santa Maria-Orcutt,4,3,2100,266800
+Santa Maria-Orcutt,3,2,1807,250000
+Santa Maria-Orcutt,4,2,1352,220000
+Santa Maria-Orcutt,3,2,1526,159900
+Santa Maria-Orcutt,3,2,1593,155000
+Santa Maria-Orcutt,3,3,2328,300000
+Santa Maria-Orcutt,3,2,1008,179900
+Santa Maria-Orcutt,3,2,1340,155000
+Santa Maria-Orcutt,5,4,3039,425000
+Santa Maria-Orcutt,3,2,1733,249900
+Santa Maria-Orcutt,4,3,1947,239000
+Santa Maria-Orcutt,4,3,1927,230000
+Santa Maria-Orcutt,3,2,1292,189000
+Santa Maria-Orcutt,3,2,1300,169900
+Santa Maria-Orcutt,3,2,1700,286500
+Santa Maria-Orcutt,3,2,1520,209000
+Santa Maria-Orcutt,2,2,900,95000
+Santa Maria-Orcutt,3,2,1407,199900
+Santa Maria-Orcutt,3,2,1170,185000
+Santa Maria-Orcutt,5,4,2900,310000
+Santa Maria-Orcutt,4,2,1656,239900
+Santa Maria-Orcutt,2,2,980,187900
+Santa Maria-Orcutt,3,2,1278,260000
+Santa Maria-Orcutt,3,2,1200,175000
+Santa Maria-Orcutt,3,2,1257,185000
+Santa Maria-Orcutt,2,2,1100,139900
+Santa Maria-Orcutt,3,2,1461,174900
+Santa Maria-Orcutt,3,2,1200,169000
+Santa Maria-Orcutt,3,3,2039,240000
+Santa Maria-Orcutt,4,3,2150,364000
+Santa Maria-Orcutt,4,3,1969,299900
+Santa Maria-Orcutt,4,3,2357,281900
+Santa Maria-Orcutt,3,2,1850,220000
+Santa Maria-Orcutt,3,2,1200,135000
+Santa Maria-Orcutt,3,2,1200,179000
+Santa Maria-Orcutt,3,2,1500,177000
+Santa Maria-Orcutt,3,2,1500,177000
+Santa Maria-Orcutt,3,2,1400,239500
+Santa Maria-Orcutt,3,2,1460,275000
+Santa Maria-Orcutt,1,1,800,78500
+Santa Maria-Orcutt,3,3,1520,179900
+Santa Maria-Orcutt,4,3,2150,299900
+Santa Maria-Orcutt,3,2,1022,130000
+Santa Maria-Orcutt,4,2,1435,189900
+Santa Maria-Orcutt,4,2,1430,200000
+Santa Maria-Orcutt,3,2,1100,109900
+Santa Maria-Orcutt,3,2,1704,249500
+Santa Maria-Orcutt,4,3,2100,399000
+Santa Maria-Orcutt,3,2,1972,179900
+Santa Maria-Orcutt,4,3,2100,235000
+Santa Maria-Orcutt,3,2,1280,250000
+Santa Maria-Orcutt,2,2,1034,119900
+Santa Maria-Orcutt,5,3,2100,410000
+Santa Maria-Orcutt,4,2,1378,197600
+Santa Maria-Orcutt,3,2,1316,150000
+Santa Maria-Orcutt,4,3,2300,265000
+Santa Maria-Orcutt,5,3,1671,199900
+Santa Maria-Orcutt,4,3,2800,349900
+Santa Maria-Orcutt,2,2,900,99000
+Templeton,4,5,5500,1150000
+Templeton,3,2,1852,550000
+Templeton,4,3,6500,1399000
+Templeton,4,4,3100,799000
+Templeton,2,3,2100,479000
+Templeton,4,2,1797,305000
+Templeton,4,3,3008,899000
+Templeton,3,2,1999,459000
+Templeton,3,4,3123,774800
+Templeton,2,1,952,325000
+Templeton,3,2,1850,625000
